@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rabbits Junior';
+    src: local('Rabbits Junior Junior'), local('Rabbits-Junior-Junior'),
+        url('Rabbits-Junior.woff2') format('woff2'),
+        url('Rabbits-Junior.woff') format('woff'),
+        url('Rabbits-Junior.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

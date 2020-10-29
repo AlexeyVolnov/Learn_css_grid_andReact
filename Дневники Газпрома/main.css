@@ -1,0 +1,49 @@
+.wrapper_body {
+	display: grid;
+	grid-template-rows: 5% 87% 5% ;
+	grid-template-columns: 35% 1fr 35%;
+	grid-gap: 0.9px;
+	height: 100vh;
+	grid-template-areas: "header header header"
+	                     "foto_1 article foto_2"
+	                     "footer footer footer";
+}
+body{
+	margin: 0;
+}
+header {
+	grid-area: header;
+	background-color: cornflowerblue;
+	text-align: center;
+}
+
+.foto_1{
+	grid-area: foto_1;
+	background-color: cornflowerblue;
+
+}
+
+article {
+	grid-area: article;
+	text-align: center;
+	background-color: cornflowerblue;
+}
+
+.foto_2 {
+	grid-area: foto_2;
+	background-color: cornflowerblue;
+}
+
+footer {
+	grid-area: footer;
+	text-align: center;
+	background-color: cornflowerblue;
+}
+img{
+	width: 331px;
+}
+header img{
+	width: border-box;
+}
+
+
