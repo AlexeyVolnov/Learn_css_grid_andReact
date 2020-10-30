@@ -1,0 +1,45 @@
+body{
+	margin: 0px;
+}
+.wrapper-all{
+	display: grid;
+	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-columns:1fr 1fr 1fr ;
+	grid-gap: 1fr ;
+	grid-template-areas:
+			"header header header"
+			"article article article"
+			"div div div"
+			"footer footer footer";
+}
+
+
+
+header{
+	grid-area: header;
+	box-sizing: border-box;
+	background-image:url("images/image_header/00.jpg") ;
+	background-size: contain;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
+
+article{
+	grid-area: article;
+	width: 1920px;
+	height: 1000px;
+	background-color: chocolate;
+}
+.servises{
+	grid-area: div;
+	width: 1920px;
+	height: 1212px;
+	background-color: chocolate;
+}
+.logo{
+	grid-area: logo;
+
+}
+
