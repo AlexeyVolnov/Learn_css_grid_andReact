@@ -18,7 +18,7 @@ header{
 	background-repeat: no-repeat;
 	background-size: cover;
 	grid-area: header;
-	width: auto;
+	width: 100%;
 	height: 100vh;
 }
 article{
@@ -39,4 +39,34 @@ footer{
 	width: auto;
 	height: 30px;
 	background-color: darkgreen;
+}
+
+@media screen  and (max-width: 500px){
+	.wrapper_all{
+		grid-template-rows: 1fr 1fr 1fr 1fr ;
+		grid-template-columns: 1fr;
+		grid-template-areas: "header"
+		"article"
+		"servises"
+		"footer" ;
+		grid-gap: 1fr;
+
+	}
+}
+.servises{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr ;
+	grid-gap: 233px 32px;
+
+}
+.servises div{
+	width: 412px;
+	height: 240px;
+	
+}
+.servises div img{
+	width: 412px;
+	height: 240px;
+
 }
