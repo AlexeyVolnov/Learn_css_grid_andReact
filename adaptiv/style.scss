@@ -1,0 +1,61 @@
+
+
+body{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header{
+  background-size: cover;
+  display: grid;
+  height: 100vh;
+  grid-template-rows: 130px 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+.logo{
+  padding-left: 95px;
+  padding-top: 25px;
+}
+.contact{
+  max-height: 34px;
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(10,1fr);
+
+  align-content:start;
+  align-items:start;
+  :nth-child(1){
+
+
+
+  }
+  :nth-child(2){
+
+
+
+  }
+  :nth-child(3){
+
+
+
+  }
+  :nth-child(4){
+
+
+  }:nth-child(5){
+
+
+   }
+
+
+
+}
+
+
+
+
+
+
+
+

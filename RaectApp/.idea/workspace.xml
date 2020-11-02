@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="532605ce-0bdd-416d-87d5-ac64b5cd122e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/003-worldwide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/004-award.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/004rd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/2r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/4444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/LOGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/fon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/gjkjc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adaptiv/images/image_header/vk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/.idea/React-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React-app/app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adaptiv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../adaptiv/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adaptiv/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../adaptiv/style.sass" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jddi7yh4TIdnXU0J75Q9tMTSNT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="532605ce-0bdd-416d-87d5-ac64b5cd122e" name="Default Changelist" comment="" />
+      <created>1604138026655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604138026655</updated>
+      <workItem from="1604138030018" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1604138064177">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604138064177" />
+  </component>
+</project>
