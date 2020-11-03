@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19e6a917-11c1-49a0-a11c-2018d721e0e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../RaectApp/.idea/RaectApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.idea/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RaectApp/app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jj1UUSvjueCCwdzexSOAyn2kZh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19e6a917-11c1-49a0-a11c-2018d721e0e0" name="Default Changelist" comment="" />
+      <created>1604302703079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604302703079</updated>
+      <workItem from="1604302708517" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1604302769496">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604302769496" />
+  </component>
+</project>
