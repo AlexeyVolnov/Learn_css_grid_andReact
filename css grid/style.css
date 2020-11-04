@@ -1,7 +1,9 @@
 body {
-  margin: 0; }
+  margin: 0;
+  position: relative; }
 
 .wrapper-all {
+  background-image: url(images/les_vid_sverhu_ten_191553_1920x1080.jpg);
   width: 100vw;
   height: 100vh;
   background-repeat: no-repeat;
@@ -24,7 +26,8 @@ body {
     background: rgba(82, 82, 82, 0.8);
     border-radius: 666px; }
   .wrapper-all article {
-    grid-area: article; }
+    grid-area: article;
+    overflow: hidden; }
   .wrapper-all .menu-all {
     grid-area: menu; }
 
@@ -55,12 +58,19 @@ body {
     border-radius: 2px;
     padding: 10px; }
 
-@media screen and (max-width: 1000px) {
+@media all and (max-width: 600px) {
   .wrapper-all {
     height: border-box;
-    grid-template-rows: 3fr 1fr 0.2fr;
+    grid-template-rows: 0.2fr 2fr 0.5fr;
     grid-template-columns: 1fr;
     grid-template-areas: "header" "article" "menu";
-    grid-gap: 5px; } }
+    grid-gap: 1px; }
+    .wrapper-all .menu-all {
+      grid-template-rows: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr); }
+      .wrapper-all .menu-all div {
+        width: 200px;
+        height: 20px;
+        overflow: hidden; } }
 
 /*# sourceMappingURL=style.css.map */
