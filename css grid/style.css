@@ -4,30 +4,34 @@ body {
 
 .wrapper-all {
   background-image: url(images/les_vid_sverhu_ten_191553_1920x1080.jpg);
+  background-attachment: fixed;
   width: 100vw;
-  height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   font-family: sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   color: #ffffff;
   display: grid;
-  grid-template-rows: 0.2fr 2fr 0.2fr;
+  grid-template-rows: 0.1fr 2fr 0.1fr;
   grid-template-columns: 1fr;
   grid-template-areas: "header header header" "article article article" "menu menu menu";
-  grid-gap: 5px;
-  background-attachment: scroll; }
+  grid-gap: 5px; }
   .wrapper-all header {
     grid-area: header;
     display: grid;
     align-items: center;
     justify-items: center;
-    background: rgba(82, 82, 82, 0.8);
-    border-radius: 666px; }
+    background: rgba(82, 82, 82, 0.4);
+    border-radius: 666px;
+    z-index: 1;
+    position: sticky;
+    top: 0; }
   .wrapper-all article {
     grid-area: article;
-    overflow: hidden; }
+    overflow: hidden;
+    margin: 40px 100px 40px 100px;
+    z-index: 0; }
   .wrapper-all .menu-all {
     grid-area: menu; }
 
@@ -35,11 +39,36 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  grid-template-rows: 1fr;
-  grid-template-columns: 1fr;
-  grid-gap: 5px;
-  width: border-box;
-  height: auto; }
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  grid-gap: 4px; }
+  .content :nth-child(1) {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    background-color: rgba(97, 97, 97, 0.3);
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px; }
+  .content :nth-child(2) {
+    grid-column: 2/6;
+    grid-row: 1/2;
+    background-color: rgba(97, 97, 97, 0.3);
+    box-sizing: border-box;
+    width: 1100px;
+    height: 300px;
+    display: inline;
+    overflow: hidden;
+    justify-self: start;
+    align-self: start; }
+    .content :nth-child(2) p {
+      margin-top: 80px; }
+  .content :nth-child(3) {
+    grid-column: 2/6;
+    grid-row: 2/5;
+    background-color: rgba(97, 97, 97, 0.3);
+    box-sizing: border-box;
+    width: 1100px;
+    height: 700px; }
 
 .menu-all {
   display: grid;
@@ -49,7 +78,10 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   justify-items: center;
   font-size: 20px;
-  color: #4d4747; }
+  color: #4d4747;
+  z-index: 1;
+  position: sticky;
+  bottom: 0; }
   .menu-all :hover {
     color: #9e9b9b;
     transition-property: color;
@@ -58,7 +90,7 @@ body {
     border-radius: 2px;
     padding: 10px; }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 640px) {
   .wrapper-all {
     height: border-box;
     grid-template-rows: 0.2fr 2fr 0.5fr;
@@ -67,10 +99,50 @@ body {
     grid-gap: 1px; }
     .wrapper-all .menu-all {
       grid-template-rows: repeat(3, 1fr);
-      grid-template-columns: repeat(2, 1fr); }
-      .wrapper-all .menu-all div {
-        width: 200px;
-        height: 20px;
-        overflow: hidden; } }
+      grid-template-columns: repeat(2, 1fr);
+      height: 120px;
+      font-size: 50%; }
+
+  .content {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    word-wrap: break-word;
+    font-size: 80%; }
+    .content :nth-child(1) {
+      grid-row: 1/2;
+      grid-column: 1/2;
+      background-color: rgba(97, 97, 97, 0.3);
+      box-sizing: border-box;
+      width: 100vw;
+      height: 200px;
+      box-sizing: border-box; }
+    .content :nth-child(2) {
+      grid-row: 2/3;
+      grid-column: 1/2;
+      background-color: rgba(97, 97, 97, 0.3);
+      box-sizing: border-box;
+      width: 100vw;
+      height: 300px;
+      overflow: hidden;
+      justify-self: start;
+      align-self: start; }
+    .content :nth-child(3) {
+      grid-row: 3/5;
+      grid-column: 1/2;
+      background-color: rgba(97, 97, 97, 0.3);
+      width: 100vw;
+      height: 300px; }
+
+  article {
+    margin: 0; }
+
+  .menu-all :hover {
+    color: #9e9b9b;
+    transition-property: color;
+    transition: 250ms;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 4px; } }
 
 /*# sourceMappingURL=style.css.map */

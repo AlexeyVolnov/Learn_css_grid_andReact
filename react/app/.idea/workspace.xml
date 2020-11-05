@@ -2,45 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="744abcf6-75d3-4bff-852c-8532bbf30c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Reactapp/app/images/les_vid_sverhu_ten_191553_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/les_vid_sverhu_ten_191553_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Reactapp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Reactapp/app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Reactapp/app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/article.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/menu.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../css grid/.sass-cache/13e2cef655ccaaab55f31f6c32ef993d4860c732/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../../css grid/.sass-cache/13e2cef655ccaaab55f31f6c32ef993d4860c732/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../css grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../css grid/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../css grid/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../css grid/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../css grid/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../css grid/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../css grid/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../css grid/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1jocP42ohGL8Uw8hTzFGR0fF3ZK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -62,11 +37,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SVG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bront\Desktop\Learn_css_grid_andReact\Learn_css_grid_andReact\react\app\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bront\Desktop\Learn_css_grid_andReact\Learn_css_grid_andReact\react\app\src" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -93,11 +78,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604473857854</updated>
-      <workItem from="1604473859396" duration="642000" />
+      <workItem from="1604473859396" duration="5329000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="206" key="GridCell.Tab.0.bottom" timestamp="1604568486564">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486564" />
+    <state width="1515" height="206" key="GridCell.Tab.0.center" timestamp="1604568486564">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486564" />
+    <state width="1515" height="206" key="GridCell.Tab.0.left" timestamp="1604568486563">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486563" />
+    <state width="1515" height="206" key="GridCell.Tab.0.right" timestamp="1604568486564">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486564" />
   </component>
 </project>
