@@ -9,6 +9,8 @@ function App() {
         <Header />
         <Article />
         <Menu />
+        <div>эт я на работе</div>
+        <div>sdc</div>
       </div>
   );
 }
