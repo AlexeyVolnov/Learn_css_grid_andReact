@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6812f190-0a1c-4a09-9466-f9aef087c1c8" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/app/src/components/Profile/MyPosts/Post/MyPosts.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/components/Profile/Profile.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/components/Profile/Profile.module.css" afterDir="false" />
@@ -17,6 +18,10 @@
       <change beforePath="$PROJECT_DIR$/app/src/components/article.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/Profile/MyPosts/Post/MyPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/components/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/header/header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/components/menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/menu/menu.jsx" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+>>>>>>> 83bcca0188a8fa61fc449eb2d4da82ed183bc4e8
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +57,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/components/Profile/MyPosts/Post" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
@@ -83,6 +90,10 @@
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
+=======
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 83bcca0188a8fa61fc449eb2d4da82ed183bc4e8
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -95,9 +106,13 @@
       <option name="presentableId" value="Default" />
       <updated>1604473831689</updated>
       <workItem from="1604473833114" duration="25000" />
+<<<<<<< HEAD
       <workItem from="1604576898657" duration="1459000" />
       <workItem from="1604663872149" duration="142000" />
       <workItem from="1604725452325" duration="14459000" />
+=======
+      <workItem from="1604658896689" duration="336000" />
+>>>>>>> 83bcca0188a8fa61fc449eb2d4da82ed183bc4e8
     </task>
     <servers />
   </component>
