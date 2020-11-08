@@ -9,8 +9,6 @@ function App() {
         <Header />
         <Profile />
         <Menu />
-        <div>эт я на работе</div>
-        <div>sdc</div>
       </div>
   );
 }

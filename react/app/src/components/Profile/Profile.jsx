@@ -1,5 +1,6 @@
 import React from 'react';
 import s from "./Profile.module.css";
+import MyPosts from "./MyPosts/MyPosts.jsx";
 
 
 let Profile = ()=>{
@@ -8,7 +9,7 @@ let Profile = ()=>{
         <div className={s.content}>
           <div className="imageUser">изображение профиля</div>
           <div className="userInfo"><p>информация о пользователе</p></div>
-          <div className="posts">посты пользователя</div>
+          <MyPosts />
         </div>
       </article>
   )
