@@ -1,8 +1,6 @@
-body {
-  margin: 0;
-  position: relative; }
-
 .wrapper-all {
+  margin: 0;
+  position: relative;
 background-image: url("Background.jpg");
   background-attachment: fixed;
   width: 100vw;
@@ -17,78 +15,7 @@ background-image: url("Background.jpg");
   grid-template-columns: 1fr;
   grid-template-areas: "header header header" "article article article" "menu menu menu";
   grid-gap: 5px; }
-.wrapper-all header {
-  grid-area: header;
-  display: grid;
-  align-items: center;
-  justify-items: center;
-  background: rgba(82, 82, 82, 0.4);
-  border-radius: 666px;
-  z-index: 1;
-  position: sticky;
-  top: 0; }
-.wrapper-all article {
-  grid-area: article;
-  overflow: hidden;
-  margin: 40px 100px 40px 100px;
-  z-index: 0; }
-.wrapper-all .menu-all {
-  grid-area: menu; }
 
-.content {
-  display: grid;
-  justify-items: center;
-  align-items: center;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(6, 1fr);
-  grid-gap: 4px; }
-.content :nth-child(1) {
-  grid-column: 1/2;
-  grid-row: 1/2;
-  background-color: rgba(97, 97, 97, 0.3);
-  box-sizing: border-box;
-  width: 200px;
-  height: 200px; }
-.content :nth-child(2) {
-  grid-column: 2/6;
-  grid-row: 1/2;
-  background-color: rgba(97, 97, 97, 0.3);
-  box-sizing: border-box;
-  width: 1100px;
-  height: 300px;
-  display: inline;
-  overflow: hidden;
-  justify-self: start;
-  align-self: start; }
-.content :nth-child(2) p {
-  margin-top: 80px; }
-.content :nth-child(3) {
-  grid-column: 2/6;
-  grid-row: 2/5;
-  background-color: rgba(97, 97, 97, 0.3);
-  box-sizing: border-box;
-  width: 1100px;
-  height: 700px; }
-
-.menu-all {
-  display: grid;
-  grid-template-rows: 1fr;
-  background-color: black;
-  align-items: center;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  justify-items: center;
-  font-size: 20px;
-  color: #4d4747;
-  z-index: 1;
-  position: sticky;
-  bottom: 0; }
-.menu-all :hover {
-  color: #9e9b9b;
-  transition-property: color;
-  transition: 250ms;
-  border-style: solid;
-  border-radius: 2px;
-  padding: 10px; }
 
 @media all and (max-width: 640px) {
   .wrapper-all {
@@ -97,12 +24,11 @@ background-image: url("Background.jpg");
     grid-template-columns: 1fr;
     grid-template-areas: "header" "article" "menu";
     grid-gap: 1px; }
-  .wrapper-all .menu-all {
+  .wrapper-all .menuAll {
     grid-template-rows: repeat(3, 1fr);
     grid-template-columns: repeat(2, 1fr);
     height: 120px;
     font-size: 70%; }
-
   .content {
     display: grid;
     grid-template-columns: 1fr;
@@ -137,7 +63,7 @@ background-image: url("Background.jpg");
   article {
     margin: 0; }
 
-  .menu-all :hover {
+  .menuAll :hover {
     color: #9e9b9b;
     transition-property: color;
     transition: 250ms;

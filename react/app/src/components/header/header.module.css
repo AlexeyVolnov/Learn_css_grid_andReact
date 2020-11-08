@@ -1,0 +1,13 @@
+header {
+  grid-area: header;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  background: rgba(82, 82, 82, 0.4);
+  border-radius: 666px;
+  z-index: 1;
+  position: sticky;
+  top: 0; }
+.item {
+  color: red;
+}
