@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
+
 body {
   display: grid;
   //font-family: 'Bebas Neue', cursive;
@@ -13,13 +14,19 @@ body {
 
 .wrapper-all {
   display: grid;
-  width: 1366px;
+  width: 100vw;
   height: 2625px;
   justify-self: center;
 
+
+
   header {
-    width: 868px;
+    width: 1080px;
+    height: 177px;
     justify-self: center;
+    & a{
+      color:rgb(35, 31, 32);
+    }
 
     .headerTop {
       display: grid;
@@ -30,11 +37,7 @@ body {
       .headerTop-languages {
         display: block;
         color: #000000;
-        font-size: 10px;
-        font-weight: 500;
-        font-style: normal;
         text-transform: uppercase;
-        letter-spacing: 1px;
         line-height: normal;
         text-decoration: underline;
 
@@ -71,21 +74,44 @@ body {
     }
 
     .header-bottom {
+      align-items: center;
+      align-self: start;
+      font-family: -apple-system;
+      color: #000000;
+      font-size: 15px;
+      font-weight: 400;
+      font-style: normal;
+      text-align: left;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      line-height: normal;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
       .header-bottom-menuLeft {
-        a {
+        justify-self: start;
+        &  :nth-child(n){
+          margin-left: 20px;
         }
-
-        a {
+        &  :first-child{
+          margin-left: 0;
         }
-
         a {
+
         }
       }
 
-      .header-bottom-namePage {
+      .header-bottom__logo {
+        justify-self: center;
       }
 
       .header-bottom-menuRight {
+        justify-self: end;
+        &  :nth-child(n){
+          margin-right: 20px;
+        }
+        &  :last-child{
+          margin-right: 0;
+        }
         a {
         }
 
@@ -96,8 +122,56 @@ body {
         }
       }
     }
+    & .header-bottom__gaterins{
+      // Style for "Catering"
+      height: 8px;
+      color: #000000;
+      font-family: Bebas;
+      font-size: 8px;
+      font-weight: 600;
+      font-style: normal;
+      letter-spacing: normal;
+      line-height: 25px;
+      text-align: center;
+      text-transform: uppercase;
+      // Text style for "Catering"
+      font-style: normal;
+      letter-spacing: 8px;
+      line-height: normal;
+      margin-top: 30px;
+      grid-column: 2/3;
+
+
+
+    }
   }
+  & .contentFull {
+    display: grid;
+    height: 426px;
+    grid-template-rows: 1fr;
+    grid-template-columns:2fr;
+
+    & :first-child{
+      display: inline-grid;
+    }
+    & :last-child{
+      display: inline-grid;
+    }
+
+  }
+
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
