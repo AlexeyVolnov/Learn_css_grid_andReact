@@ -154,4 +154,10 @@ body {
     .wrapper-all .contentFull :last-child {
       display: inline-grid; }
 
+.ss {
+  width: 800px;
+  height: 800px;
+  background: url("../images/6c5f9cc8b99ba313230d0d9043c814b0.png") no-repeat;
+  background-size: 100%; }
+
 /*# sourceMappingURL=style.css.map */
