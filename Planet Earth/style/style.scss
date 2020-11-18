@@ -5,33 +5,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
-
-body {
-  display: grid;
-  //font-family: 'Bebas Neue', cursive;
-  //font-family: 'PT Sans', sans-serif;
-}
-
 .wrapper-all {
   display: grid;
   width: 100vw;
-  height: 2625px;
-  justify-self: center;
-
 
 
   header {
     width: 1080px;
-    height: 177px;
     justify-self: center;
-    & a{
-      color:rgb(35, 31, 32);
+
+    & a {
+      color: rgb(35, 31, 32);
     }
 
     .headerTop {
-      display: grid;
+      display: flex;
+      justify-content: space-between;
       height: 19px;
-      grid-template-columns: 1fr 1fr 1fr;
       margin-top: 32px;
 
       .headerTop-languages {
@@ -87,14 +77,18 @@ body {
       line-height: normal;
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
+
       .header-bottom-menuLeft {
         justify-self: start;
-        &  :nth-child(n){
+
+        & :nth-child(n) {
           margin-left: 20px;
         }
-        &  :first-child{
+
+        & :first-child {
           margin-left: 0;
         }
+
         a {
 
         }
@@ -106,12 +100,15 @@ body {
 
       .header-bottom-menuRight {
         justify-self: end;
-        &  :nth-child(n){
+
+        & :nth-child(n) {
           margin-right: 20px;
         }
-        &  :last-child{
+
+        & :last-child {
           margin-right: 0;
         }
+
         a {
         }
 
@@ -122,8 +119,8 @@ body {
         }
       }
     }
-    & .header-bottom__gaterins{
-      // Style for "Catering"
+
+    & .gaterins {
       height: 8px;
       color: #000000;
       font-family: Bebas;
@@ -132,42 +129,60 @@ body {
       font-style: normal;
       letter-spacing: normal;
       line-height: 25px;
-      text-align: center;
       text-transform: uppercase;
-      // Text style for "Catering"
       font-style: normal;
       letter-spacing: 8px;
       line-height: normal;
       margin-top: 30px;
-      grid-column: 2/3;
-
+      display: flex;
+      justify-content: center;
 
 
     }
   }
-  & .contentFull {
-    display: grid;
-    height: 426px;
-    grid-template-rows: 1fr;
-    grid-template-columns:2fr;
+}
+.contentFull {
+  width: 1080px;
+  display: flex;
+  justify-self: center;
+  padding-top: 33px;
 
-    & :first-child{
-      display: inline-grid;
-    }
-    & :last-child{
-      display: inline-grid;
-    }
-
+  & .contentFull__image {
+    width: 500px;
+    height: 400px;
   }
+    & .contentFull__text {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      width: 683px;
+      height: 425px;
+      background-color: #000000;
+      padding-left: 55px;
 
-}
+    }
 
-.ss{
-  width:800px ;
-  height: 800px;
-  background: url("../images/6c5f9cc8b99ba313230d0d9043c814b0.png") no-repeat;
-  background-size: 100%;
-}
+      & .private {
+        width: 200px;
+        height: 87px;
+        color: white;
+        font-family: Algerian;
+        font-size: 50px;
+      }
+
+      & .text {
+        height: 39px;
+        color: #ffffff;
+        font-family: "Algerian";
+        font-size: 15px;
+      }
+
+      & .buttons {
+        color: white;
+        display: flex;
+      }
+    }
+
 
 
 
