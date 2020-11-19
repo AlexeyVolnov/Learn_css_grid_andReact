@@ -2,25 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="744abcf6-75d3-4bff-852c-8532bbf30c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Planet Earth/.idea/dictionaries/Bront.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Planet Earth/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Planet Earth/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Planet Earth/style/.sass-cache/f23ac737a86aea78bd4e8c90dc5b968b92f1fb50/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Planet Earth/style/.sass-cache/f23ac737a86aea78bd4e8c90dc5b968b92f1fb50/style_reset.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/beginner-html-site-styled-gh-pages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../beginner-html-site-styled-gh-pages/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Planet Earth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Planet Earth/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Planet Earth/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Planet Earth/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Planet Earth/style/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../Planet Earth/style/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Planet Earth/style/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Planet Earth/style/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Дневники Газпрома/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Дневники Газпрома/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/Reactapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/bgr_main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/images/les_vid_sverhu_ten_191553_1920x1080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +83,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SVG" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Planet Earth" />
@@ -51,6 +92,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,6 +130,7 @@
       <updated>1604473857854</updated>
       <workItem from="1604473859396" duration="5329000" />
       <workItem from="1605610400014" duration="773000" />
+      <workItem from="1605784226211" duration="62000" />
     </task>
     <servers />
   </component>

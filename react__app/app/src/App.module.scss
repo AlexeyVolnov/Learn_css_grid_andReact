@@ -1,0 +1,47 @@
+.wrapperAll {
+  background: #ffffff;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  display: grid;
+  justify-items: center;
+  padding-top: 10px;
+
+}
+
+.wrapperBody {
+  display: grid;
+  height: 100vh;
+  width: 1600px;
+  border-radius: 30px;
+  grid-gap: 20px;
+  grid-template-columns: 0.5fr 1fr 1fr;
+  grid-template-rows: 0.2fr 1fr 0.2fr;
+  grid-template-areas: "menu header header""menu content content""footer footer footer";
+  background: #b7b2b2;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  :nth-child(n){
+    background: cornsilk;
+  }
+}
+
+
+
+.wrapperHeader{
+  grid-area: header;
+}
+
+
+.wrapperMenu{
+grid-area: menu;
+}
+.wrapperContent{
+grid-area: content;
+}
+.wrapperFooter{
+grid-area: footer;
+}
+
+
