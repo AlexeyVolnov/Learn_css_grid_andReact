@@ -1,6 +1,7 @@
 import React from 'react';
 import s from './styleMenu.module.css';
 
+
 const Menu = () => {
   return (
       <div className={s.menuWrapper}>
