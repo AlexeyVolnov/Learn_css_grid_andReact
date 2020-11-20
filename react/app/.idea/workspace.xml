@@ -2,65 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="744abcf6-75d3-4bff-852c-8532bbf30c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/Reactapp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/bgr_main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/images/les_vid_sverhu_ten_191553_1920x1080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Reactapp/app/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Planet Earth/.idea/reactTemplatesPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/.idea/react__app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/menu/.sass-cache/38d9cf7502243603af6e4f9e2c8af44df8b0c3ee/styleMenu.module.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/menu/menu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/menu/styleMenu.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/menu/styleMenu.module.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/app/src/menu/styleMenu.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react__app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Planet Earth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Planet Earth/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/.sass-cache/f082c2d5002ca6e59d00160c501265b913809e38/App.module.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/.sass-cache/f082c2d5002ca6e59d00160c501265b913809e38/App.module.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/App.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/App.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/App.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/App.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/header/.sass-cache/024e8ef1c7646ef4cee70982383834b1102107ed/style.module.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/header/headerTop/.sass-cache/024e8ef1c7646ef4cee70982383834b1102107ed/style.module.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/header/.sass-cache/024e8ef1c7646ef4cee70982383834b1102107ed/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/header/headerTop/.sass-cache/024e8ef1c7646ef4cee70982383834b1102107ed/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/header/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/header/headerTop/header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/header/style.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/header/headerTop/style.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/header/style.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/header/headerTop/style.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react__app/app/src/header/style.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../react__app/app/src/header/headerTop/style.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +96,7 @@
       <workItem from="1604473859396" duration="5329000" />
       <workItem from="1605610400014" duration="773000" />
       <workItem from="1605784226211" duration="62000" />
+      <workItem from="1605875575468" duration="38000" />
     </task>
     <servers />
   </component>
@@ -142,25 +108,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605616658649" />
-    <state width="1515" height="206" key="GridCell.Tab.0.bottom" timestamp="1605617466178">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1605875612887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486564" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1605875612887" />
     <state width="1515" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605617466178" />
-    <state width="1515" height="206" key="GridCell.Tab.0.center" timestamp="1605617466178">
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1605875612887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="206" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486564" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1605875612887" />
     <state width="1515" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605617466178" />
-    <state width="1515" height="206" key="GridCell.Tab.0.left" timestamp="1605617466178">
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1605875612887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="206" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486563" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1605875612887" />
     <state width="1515" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605617466178" />
-    <state width="1515" height="206" key="GridCell.Tab.0.right" timestamp="1605617466178">
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1605875612887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="206" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1604568486564" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1605875612887" />
     <state width="1515" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605617466178" />
   </component>
 </project>

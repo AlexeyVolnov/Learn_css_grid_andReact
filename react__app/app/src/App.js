@@ -1,7 +1,8 @@
 import React from 'react';
 import s from './App.module.css';
 import "./styleReset/style_reset.css";
-import Header from "./header/header";
+import Header from "./header/headerTop/header";
+import Menu from "./menu/menu";
 
 function App() {
   return (
@@ -10,8 +11,8 @@ function App() {
           <div className={s.wrapperHeader}>
             <Header/>
           </div>
-          <div className={s.wrapperMenu}>menu</div>
-          <div className={s.wrapperContent}>content</div>
+          <div className={s.wrapperMenu}><Menu /></div>
+          <div className={s.wrapperContent}>contentddfdfsd</div>
           <div className={s.wrapperFooter}>footer</div>
 
         </div>
